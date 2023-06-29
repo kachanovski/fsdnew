@@ -1,0 +1,15 @@
+{
+  "name": "@kachanovski/fsdnew",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A utility for adding new components using feature-sliced methodology",
+  "repository": "git@github.com:kachanovski/fsdnew.git",
+  "author": "kachanovski <kachanovski03@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "addnew": "./index.js"
+  },
+  "devDependencies": {
+    "prettier": "2.8.8"
+  }
+}
